@@ -7,7 +7,7 @@ TARGET = program
 
 # Source and header files
 SRCS = main.cpp
-HEADERS = Tokenizer.hpp FileWriter.hpp FileReader.hpp
+HEADERS = RedBlackTree.h TextProcessor.h
 
 # Default target
 all: $(TARGET)
